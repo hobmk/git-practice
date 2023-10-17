@@ -1,6 +1,0 @@
-total 1.0K
--rw-r--r-- 1 ghqja 197609 15 Oct 17 22:14 README.md
--rw-r--r-- 1 ghqja 197609  0 Oct 17 22:32 file_list.txt
-total 2.0K
--rw-r--r-- 1 ghqja 197609  15 Oct 17 22:14 README.md
--rw-r--r-- 1 ghqja 197609 119 Oct 17 22:32 file_list.txt
